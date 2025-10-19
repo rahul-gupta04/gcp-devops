@@ -1,1 +1,1 @@
-# gcp-devops
+# The GCP DevOps Course
